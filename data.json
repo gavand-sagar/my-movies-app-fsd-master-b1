@@ -1,0 +1,83 @@
+[
+    {
+        
+        "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+        "release_date": "2023-07-08",
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 2325
+    },
+    {
+       
+        "poster_path": "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+        "release_date": "2023-09-15",
+        "title": "Expend4bles",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 673
+    },
+    {
+       
+        "poster_path": "/A4j8S6moJS2zNtRR8oWF08gRnL5.jpg",
+        "release_date": "2023-10-25",
+        "title": "Five Nights at Freddy's",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 2096
+    },
+    {
+        
+        "poster_path": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+        "release_date": "2023-07-03",
+        "title": "Sound of Freedom",
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 1371
+    },
+    {
+      
+        "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+        "release_date": "2023-05-17",
+        "title": "Fast X",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 4223
+    },
+    {
+       
+        "poster_path": "/ssEFC5wfFjj7lJpUgwJDOK1Xu1J.jpg",
+        "release_date": "2023-10-26",
+        "title": "Boudica",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 65
+    },
+    {
+      
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "release_date": "2023-07-19",
+        "title": "Oppenheimer",
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 4312
+    },
+    {
+       
+        "poster_path": "/qXChf7MFL36BgoLkiB3BzXiwW82.jpg",
+        "release_date": "2023-09-29",
+        "title": "Muzzle",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 115
+    },
+    {
+        
+        "poster_path": "/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+        "release_date": "2023-08-30",
+        "title": "The Equalizer 3",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 1572
+    }
+]
